@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anavfds?igshid=YmMyMTA2M2Y=)
 
-![Ana Vitória França da Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=anavfs&show_icons=true&theme=radical)
+![Ana Vitória França GitHub stats](https://github-readme-stats.vercel.app/api?username=anavfs&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br/> 
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
